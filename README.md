@@ -80,7 +80,7 @@ Git -lens
 The design must be submitted before Sunday (23/august/2020).
 The backend developers should start working on the data model and api access and deploy on (heroku or other services) by Tuesday(25/august/2020).
 The frontend developer should have studied their github workflow and neccesary tools while waiting for design implementations before (23/august/2020).
-Disclaimer : The time mentioned above are estimates based on our calculation. While we
-strive to accurately estimate project timelines in every proposal, we reserve the right to move
+Disclaimer : The time mentioned above are estimates based on our calculation
+While we strive to accurately estimate project timelines in every proposal, we reserve the right to move
 delivery dates in response to unforeseen delays or changes to project requirements from your
 end.
