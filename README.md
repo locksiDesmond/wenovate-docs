@@ -76,6 +76,12 @@ Damola.
 Prettier
 Git -lens
 .eslint (must also be installed to machine).
+## Git workflow 
+
+[**commit convention**](https://www.conventionalcommits.org/en/v1.0.0/)<br>
+[**Gitflow workflow**](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)<br>
+
+
 ## Execution Timeline
 The design must be submitted before Sunday (23/august/2020).
 The backend developers should start working on the data model and api access and deploy on (heroku or other services) by Tuesday(25/august/2020).
