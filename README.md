@@ -21,9 +21,8 @@ Your Web App will have the following Pages:
 - connect 
 - Connect form (title, connect-type[sales, fund, demand] - looks like a label). 
 - Blog form (heading , content)
-- Admin login and panel (username, password)
 - Login Screen (fullname, username, user-type [farmer, company,others], password] )
-- Admin panel
+- user profile
 - Static Landing Page with different all features preview.
 
 ## App Integrations
