@@ -91,33 +91,34 @@ delivery dates in response to unforeseen delays or changes to project requiremen
 end.
 ## Individual Task
 
-# Kizzle 
+### Kizzle 
 - handles authentication and authorization, including user sign in and sign up
 
-# Solomon
+### Solomon
 - to handle forget password , reset password, profile updates
 
-# Locksi and joshua 
+### Locksi and joshua 
 - to handle CRUD operation on connect and blogs.
 
-# Ycee
+### Ycee
 - design and handle routes to all pages
 - design layouts
 - design responsive register page
 
-# Damola 
+### Damola 
 - design responsive login page
 - design nav bar
 
-# dee_man 
+### dee_man 
 - design the connect feature component with onhover effect.
 
-# Bolutopsy 
+### Bolutopsy 
 - create redux store for needed data
 - create modal for connect
-# shadrach
+### shadrach
 - i gave you a task before, once you've complete that. work closely with all frontend designer and monitor their code, variable names, component name.
 - create a mock up object for dee-man to handle the connect
 
-# David
-- suck a dick, and get back to designing
+### David
+- Make a logo with contect OFR
+- find background pictures to use
